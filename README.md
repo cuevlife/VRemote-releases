@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/vremote-icon-256.png" width="112" alt="VRemote"></p>
+<p align="center"><img src="assets/vremote-ribbon-v.png" width="112" alt="VRemote"></p>
 
 <h1 align="center">VRemote</h1>
 
